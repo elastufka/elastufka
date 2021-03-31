@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 😄 Pronouns: she/they
 <!--
 **elastufka/elastufka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: she/they
 - ⚡ Fun fact: ...
 -->
 
@@ -31,11 +31,13 @@ Here are some ideas to get you started:
 **Senior Data & Platform Engineer** &#12299;_working in Reliability Analytics & Automation_
 <br/>
 **Digital Artist & Creator** &#12299;_specialised in environmental pixel art and 8bit-ish art_
--->
+
 ----
 **Publications**
 
 **But more importantly the code**
+
+-->
 
 ----
 
