@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/erica-lastufka-1686b2b5/">
   <img align="left" alt="Erica's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<a href="https://orcid.org/0000-0003-1894-2074">
+<i class="fab fa-orcid"></i>
+</a>
 <!--
 | &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub> 
 -->
