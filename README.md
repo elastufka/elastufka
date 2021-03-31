@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/erica-lastufka-1686b2b5/">
   <img align="left" alt="Erica's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://orcid.org/0000-0003-1894-2074">
+<a href="https://orcid.org/0000-0003-1894-2074" alt="Erica's ORCID">
 <i class="fab fa-orcid"></i>
 </a>
 <!--
