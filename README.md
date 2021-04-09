@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - IDL
 - (when necessary) Matlab, Octave, Mathematica
 - (back in the day) C++, Java
+- (with great reluctance) HTML, CSS, Fortran
 
 <!--
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
