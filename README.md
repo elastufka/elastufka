@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 - ☀️ SunPy, AstroPy
 - 🐼 pandas
-- numpy, scipy
-- matplotlib, plotLy, seaborn
+- 🧮 numpy, scipy
+- 📈 matplotlib, plotLy, seaborn
 - 🌃 scikit-image, OpenCV
-- scikit-learn, Keras
-- nltk, SpaCy
+- 🧠 scikit-learn, Keras
+- 📚 nltk, SpaCy
 
 &nbsp;&nbsp;&nbsp;
 
