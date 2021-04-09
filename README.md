@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 
-Python
-IDL
-(when necessary) Matlab, Octave, Mathematica
-(back in the day) C++, Java
+- Python
+- IDL
+- (when necessary) Matlab, Octave, Mathematica
+- (back in the day) C++, Java
 
 <!--
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
@@ -33,15 +33,16 @@ IDL
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 <!--![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 -->
-Git
-bash
+- Git
+- bash
 
-☀️ SunPy, AstroPy
-🐼 pandas
-numpy, scipy
-🌃 scikit-image, OpenCV
-scikit-learn, Keras
-nltk, SpaCy
+- ☀️ SunPy, AstroPy
+- 🐼 pandas
+- numpy, scipy
+- matplotlib, plotLy, seaborn
+- 🌃 scikit-image, OpenCV
+- scikit-learn, Keras
+- nltk, SpaCy
 
 &nbsp;&nbsp;&nbsp;
 
