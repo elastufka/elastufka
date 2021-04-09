@@ -21,11 +21,8 @@ Here are some ideas to get you started:
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 
 Python
-
 IDL
-
 (when necessary) Matlab, Octave, Mathematica
-
 (back in the day) C++, Java
 
 <!--
@@ -36,6 +33,16 @@ IDL
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 <!--![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 -->
+Git
+bash
+
+☀️ SunPy, AstroPy
+🐼 pandas
+numpy, scipy
+🌃 scikit-image, OpenCV
+scikit-learn, Keras
+nltk, SpaCy
+
 &nbsp;&nbsp;&nbsp;
 
 <!-- example
