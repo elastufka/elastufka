@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 -->
 
+Check out my [presentations](https://elastufka.github.io/presentations/) for an idea of the work I do and the occaisional low-resolution gif of solar flares!
+
 ### Languages
 
 - Python
