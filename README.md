@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm a solar physicist/data scientist preparing to transition to industry
 
-- 😄 Pronouns: she/they
+<!--- 😄 Pronouns: she/they-->
 - 🔭 I’m currently working on AIA and XRT data analysis in support of NuSTAR Quiet Sun observations
 - 🌱 I’m currently learning ML pipeline and project structuring best practices with TensorFlow!
 <!--
