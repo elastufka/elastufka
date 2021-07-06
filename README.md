@@ -72,8 +72,8 @@ to be added...
 <a href="https://linkedin.com/in/erica-lastufka-1686b2b5/">
   <img align="left" alt="Erica's LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
-<a href="https://orcid.org/0000-0003-1894-2074">
-  <img align="left" alt="Erica's ORCID" width="20px" src="https://commons.wikimedia.org/wiki/File:ORCID_iD.svg" />
+<a href="https://orcid.org/0000-0003-1894-2074" alt="Erica's ORCID">
+  <img align="left" width="20px" src="https://commons.wikimedia.org/wiki/File:ORCID_iD.svg" />
 </a>
 <!--
 | &nbsp;&nbsp;&nbsp; Website & Gallery : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub> 
