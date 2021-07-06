@@ -44,8 +44,8 @@ Check out my [presentations](https://elastufka.github.io/presentations/) for an 
 - bash
 
 - ☀️ SunPy, AstroPy
-- 🐼 pandas
-- 🧮 numpy, scipy
+- 🐼 pandas,geopandas
+- 🧮 numpy, scipy, statsmodels
 - 📈 matplotlib, plotLy, seaborn
 - 🌃 scikit-image, OpenCV
 - 🧠 scikit-learn, Keras
