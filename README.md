@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 Check out my [presentations](https://elastufka.github.io/presentations/) for an idea of the work I do and the occaisional low-resolution gif of solar flares!
 
+For collaborators or people working with solar data, have a look [here](https://elastufka.github.io/SAX-XRS_figures/) for posts relevant to my current pojects and some neat visualization tricks. 
+
 ### Languages
 
 - Python
