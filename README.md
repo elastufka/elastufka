@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm a solar physicist/data scientist preparing to transition to industry
 
 <!--- 😄 Pronouns: she/they-->
-- 🔭 I’m currently working on AIA and XRT data analysis in support of NuSTAR Quiet Sun observations
+- 🔭 I’m currently working on AIA and XRT data analysis in support of NuSTAR Quiet Sun observations and visualization web tools bringing together STIX and AIA data.
 - 🌱 I’m currently learning ML pipeline and project structuring best practices with TensorFlow!
 <!--
 **elastufka/elastufka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
