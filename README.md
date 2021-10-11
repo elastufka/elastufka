@@ -29,9 +29,10 @@ For collaborators or people working with solar data, have a look [here](https://
 
 - Python
 - IDL
-- (when necessary) Matlab, Octave, Mathematica
+- (when necessary) Matlab, Octave, Mathematica, SQL
 - (back in the day) C++, Java
 - (with great reluctance) HTML, CSS, Fortran
+- (in progress) Javascript
 
 <!--
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
@@ -50,7 +51,7 @@ For collaborators or people working with solar data, have a look [here](https://
 - 🧮 numpy, scipy, statsmodels
 - 📈 matplotlib, plotLy, dash, seaborn
 - 🌃 scikit-image, OpenCV
-- 🧠 scikit-learn, Keras
+- 🧠 scikit-learn, Keras, PyTorch
 - 📚 nltk, SpaCy
 
 &nbsp;&nbsp;&nbsp;
