@@ -2,7 +2,7 @@
 
 <!--- 😄 Pronouns: she/they-->
 - 🔭 I’m currently working on AIA and XRT data analysis in support of NuSTAR Quiet Sun observations and visualization web tools bringing together STIX and AIA data.
-- 🌱 I’m currently learning ML pipeline and project structuring best practices with TensorFlow!
+- 🌱 I’m currently learning to create web apps with Flask!
 <!--
 **elastufka/elastufka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
