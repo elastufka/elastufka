@@ -1,7 +1,7 @@
 
 name: blog post workflow
 on:
- scedule:
+ schedule:
  - cron: '0 11 * * *'
  workflow_dispatch:
  
