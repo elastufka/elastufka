@@ -71,13 +71,13 @@ to be added...
 ---
 
 # 📖 Latest Blog posts
-<!-- ELASTUFKA:START --><table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/11/11/Spacecraft-Roll-Angle-and-Apparent-Solar-Radius-from-Spiceypy.html"><img width="140px" scr="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/$title_hero.png"></a></td>
+<!-- ELASTUFKA:START --><table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/11/11/Spacecraft-Roll-Angle-and-Apparent-Solar-Radius-from-Spiceypy.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/$title_hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/11/11/Spacecraft-Roll-Angle-and-Apparent-Solar-Radius-from-Spiceypy.html">Spacecraft Roll Angle and Apparent Solar Radius from Spiceypy</a><br/>Nov 11, 2021</td></tr></table>
-<table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/10/11/Difference-between-SDO-and-Earth-observers-for-coordinate-rotation.html"><img width="140px" scr="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/$title_hero.png"></a></td>
+<table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/10/11/Difference-between-SDO-and-Earth-observers-for-coordinate-rotation.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/$title_hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/10/11/Difference-between-SDO-and-Earth-observers-for-coordinate-rotation.html">Difference between SDO and Earth observers for coordinate rotation</a><br/>Oct 11, 2021</td></tr></table>
-<table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/10/05/SunPy_colormaps_in_PlotLy.html"><img width="140px" scr="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/$title_hero.png"></a></td>
+<table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/10/05/SunPy_colormaps_in_PlotLy.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/$title_hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/10/05/SunPy_colormaps_in_PlotLy.html">SunPy colormaps in PlotLy</a><br/>Oct 5, 2021</td></tr></table>
-<table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/09/22/Solar-Orbiter-flares-visible-by-SDO.html"><img width="140px" scr="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/$title_hero.png"></a></td>
+<table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/09/22/Solar-Orbiter-flares-visible-by-SDO.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/$title_hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/09/22/Solar-Orbiter-flares-visible-by-SDO.html">Solar Orbiter flares visible by SDO</a><br/>Sep 22, 2021</td></tr></table>
 <!-- ELASTUFKA:END -->
 
