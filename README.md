@@ -72,6 +72,10 @@ to be added...
 
 # 📖 Latest Blog posts
 <!-- ELASTUFKA:START -->
+- [Spacecraft Roll Angle and Apparent Solar Radius from Spiceypy](https://elastufka.github.io/SAX-XRS_figures/posts/2021/11/11/Spacecraft-Roll-Angle-and-Apparent-Solar-Radius-from-Spiceypy.html)
+- [Difference between SDO and Earth observers for coordinate rotation](https://elastufka.github.io/SAX-XRS_figures/posts/2021/10/11/Difference-between-SDO-and-Earth-observers-for-coordinate-rotation.html)
+- [SunPy colormaps in PlotLy](https://elastufka.github.io/SAX-XRS_figures/posts/2021/10/05/SunPy_colormaps_in_PlotLy.html)
+- [Solar Orbiter flares visible by SDO](https://elastufka.github.io/SAX-XRS_figures/posts/2021/09/22/Solar-Orbiter-flares-visible-by-SDO.html)
 <!-- ELASTUFKA:END -->
 
 ----
