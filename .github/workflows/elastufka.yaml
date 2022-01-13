@@ -18,5 +18,5 @@ jobs:
               feed_list: "https://elastufka.github.io/SAX-XRS_figures/atom.xml"
               commit_message: "Update blog posts"
               date_format: "mmm d, yyyy"
-              template: '<table><tr><td><a href="$url"><img width="140px" scr="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/$title_hero.png"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+              template: '<table><tr><td><a href="$url"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/$title_hero.png"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
               gh_token: ${{ secrets.GITHUB_TOKEN }}
