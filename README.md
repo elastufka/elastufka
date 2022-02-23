@@ -71,14 +71,14 @@ to be added...
 ---
 
 # 📖 Latest Blog posts
-<!-- ELASTUFKA:START --><table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/01/18/A-faster-way-of-reprojecting-AIA-cutouts.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/A faster way of reprojecting AIA cutouts/hero.png"></a></td>
+<!-- ELASTUFKA:START --><table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/02/21/Fit-to-STIX-spectrum-with-pyXspec.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/Fit to STIX spectrum with pyXspec/hero.png"></a></td>
+<td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/02/21/Fit-to-STIX-spectrum-with-pyXspec.html">Fit to STIX spectrum with pyXspec</a><br/>Feb 21, 2022</td></tr></table>
+<table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/01/18/A-faster-way-of-reprojecting-AIA-cutouts.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/A faster way of reprojecting AIA cutouts/hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/01/18/A-faster-way-of-reprojecting-AIA-cutouts.html">A faster way of reprojecting AIA cutouts</a><br/>Jan 18, 2022</td></tr></table>
 <table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/11/11/Spacecraft-Roll-Angle-and-Apparent-Solar-Radius-from-Spiceypy.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/Spacecraft Roll Angle and Apparent Solar Radius from Spiceypy/hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/11/11/Spacecraft-Roll-Angle-and-Apparent-Solar-Radius-from-Spiceypy.html">Spacecraft Roll Angle and Apparent Solar Radius from Spiceypy</a><br/>Nov 11, 2021</td></tr></table>
 <table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/10/11/Difference-between-SDO-and-Earth-observers-for-coordinate-rotation.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/Difference between SDO and Earth observers for coordinate rotation/hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/10/11/Difference-between-SDO-and-Earth-observers-for-coordinate-rotation.html">Difference between SDO and Earth observers for coordinate rotation</a><br/>Oct 11, 2021</td></tr></table>
-<table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/10/05/SunPy_colormaps_in_PlotLy.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/SunPy colormaps in PlotLy/hero.png"></a></td>
-<td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2021/10/05/SunPy_colormaps_in_PlotLy.html">SunPy colormaps in PlotLy</a><br/>Oct 5, 2021</td></tr></table>
 <!-- ELASTUFKA:END -->
 
 ----
