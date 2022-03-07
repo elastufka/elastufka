@@ -52,6 +52,7 @@ Check out my [presentations](https://elastufka.github.io/presentations/) for an 
 - 🧠 scikit-learn, Keras, PyTorch
 - 📚 nltk, SpaCy
 - 🕷 bs4, scrapy
+- ☁️ GCP
 
 &nbsp;&nbsp;&nbsp;
 
