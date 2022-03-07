@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm a solar physicist/data scientist preparing to transition to industry
 
-<!--- 😄 Pronouns: she/they-->
+<!--- 😄 Pronouns: she/they
 - 🔭 I’m currently working on AIA and XRT data analysis in support of NuSTAR Quiet Sun observations and visualization web tools bringing together STIX and AIA data.
 - 🌱 I’m currently learning to create web apps with Flask!
-<!--
+
 **elastufka/elastufka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -48,9 +48,10 @@ Check out my [presentations](https://elastufka.github.io/presentations/) for an 
 - 🐼 pandas, geopandas
 - 🧮 numpy, scipy, statsmodels
 - 📈 matplotlib, plotLy, dash, seaborn
-- 🌃 scikit-image, OpenCV
+- 🌃 scikit-image, PIL, OpenCV
 - 🧠 scikit-learn, Keras, PyTorch
 - 📚 nltk, SpaCy
+- 🕷 bs4, scrapy
 
 &nbsp;&nbsp;&nbsp;
 
