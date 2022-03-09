@@ -86,7 +86,7 @@ to be added...
 ----
 
 <a href="https://linkedin.com/in/erica-lastufka-1686b2b5/">
-  <img align="left" alt="Erica's LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="Erica's LinkedIn" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://orcid.org/0000-0003-1894-2074" alt="Erica's ORCID">
   <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
