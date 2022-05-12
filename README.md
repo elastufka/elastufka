@@ -73,14 +73,14 @@ to be added...
 ---
 
 # 📖 Latest Blog posts
-<!-- ELASTUFKA:START --><table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/03/15/Thick-Target-Bremsstrahlung-Model-for-XSPEC.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/Thick Target Bremsstrahlung Model for XSPEC/hero.png"></a></td>
+<!-- ELASTUFKA:START --><table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/05/12/Reprojecting-STIX-images.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/Reprojecting STIX images/hero.png"></a></td>
+<td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/05/12/Reprojecting-STIX-images.html">Reprojecting STIX images</a><br/>May 12, 2022</td></tr></table>
+<table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/03/15/Thick-Target-Bremsstrahlung-Model-for-XSPEC.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/Thick Target Bremsstrahlung Model for XSPEC/hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/03/15/Thick-Target-Bremsstrahlung-Model-for-XSPEC.html">Thick Target Bremsstrahlung Model for XSPEC</a><br/>Mar 15, 2022</td></tr></table>
 <table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/02/28/DEXTR-Image-Segmentation-test-with-HMI-data.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/DEXTR Image Segmentation test with HMI data/hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/02/28/DEXTR-Image-Segmentation-test-with-HMI-data.html">DEXTR Image Segmentation test with HMI data</a><br/>Feb 28, 2022</td></tr></table>
 <table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/02/21/Fit-to-STIX-spectrum-with-pyXspec.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/Fit to STIX spectrum with pyXspec/hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/02/21/Fit-to-STIX-spectrum-with-pyXspec.html">Fit to STIX spectrum with pyXspec</a><br/>Feb 21, 2022</td></tr></table>
-<table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/01/18/A-faster-way-of-reprojecting-AIA-cutouts.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/A faster way of reprojecting AIA cutouts/hero.png"></a></td>
-<td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/01/18/A-faster-way-of-reprojecting-AIA-cutouts.html">A faster way of reprojecting AIA cutouts</a><br/>Jan 18, 2022</td></tr></table>
 <!-- ELASTUFKA:END -->
 
 ----
