@@ -73,7 +73,7 @@ to be added...
 ---
 
 # 📖 Latest Blog posts
-<!-- ELASTUFKA:START --><table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/09/22/Cropping-and-Combining-STIX-spectrograms.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/Cropping and combining STIX spectrograms/hero.png"></a></td>
+<!-- ELASTUFKA:START --><table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/09/22/Cropping-and-Combining-STIX-spectrograms.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/Cropping and Combining STIX spectrograms/hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/09/22/Cropping-and-Combining-STIX-spectrograms.html">Cropping and combining STIX spectrograms</a><br/>Sep 22, 2022</td></tr></table>
 <table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/06/02/Back-Projection-to-CLEAN-Image-Translation-with-Pix2Pix.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/Back Projection to CLEAN Image Translation with Pix2Pix/hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/06/02/Back-Projection-to-CLEAN-Image-Translation-with-Pix2Pix.html">Back Projection to CLEAN Image Translation with Pix2Pix</a><br/>Jun 2, 2022</td></tr></table>
