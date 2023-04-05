@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a solar physicist/data scientist preparing to transition to industry
+### Hi there 👋 I'm a data scientist/machine learning engineer in the domain of astrophysics
 
 <!--- 😄 Pronouns: she/they
 - 🔭 I’m currently working on AIA and XRT data analysis in support of NuSTAR Quiet Sun observations and visualization web tools bringing together STIX and AIA data.
@@ -43,13 +43,14 @@ Check out my [presentations](https://elastufka.github.io/presentations/) for an 
 
 - Git
 - bash
+- Slurm
 
 - ☀️ SunPy, AstroPy
 - 🐼 pandas, geopandas
 - 🧮 numpy, scipy, statsmodels
 - 📈 matplotlib, plotLy, dash, seaborn
 - 🌃 scikit-image, PIL, OpenCV
-- 🧠 scikit-learn, Keras, PyTorch
+- 🧠 PyTorch, scikit-learn, Keras
 - 📚 nltk, SpaCy
 - 🕷 bs4, scrapy
 - ☁️ GCP
