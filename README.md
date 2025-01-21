@@ -74,8 +74,8 @@ to be added...
 ---
 
 # 📖 Latest Blog posts
-<!-- ELASTUFKA:START --><table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2025/01/15/Florence-2-thoughts-on-the-universe.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/Florence-2’s thoughts on the universe/hero.png"></a></td>
-<td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2025/01/15/Florence-2-thoughts-on-the-universe.html">Florence-2’s thoughts on the universe</a><br/>Jan 15, 2025</td></tr></table>
+<!-- ELASTUFKA:START --><table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2025/01/15/Florence-2-thoughts-on-the-universe.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/What Florence-2 thinks of the universe/hero.png"></a></td>
+<td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2025/01/15/Florence-2-thoughts-on-the-universe.html">What Florence-2 thinks of the universe</a><br/>Jan 15, 2025</td></tr></table>
 <table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/10/19/GOES-XRS-daily-background.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/GOES XRS daily background/hero.png"></a></td>
 <td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/10/19/GOES-XRS-daily-background.html">GOES XRS daily background</a><br/>Oct 19, 2022</td></tr></table>
 <table><tr><td><a href="https://elastufka.github.io/SAX-XRS_figures/posts/2022/09/22/Cropping-and-Combining-STIX-spectrograms.html"><img width="140px" src="https://github.com/elastufka/SAX-XRS_figures/blob/gh-pages/images/Cropping and Combining STIX spectrograms/hero.png"></a></td>
